@@ -1,0 +1,7 @@
+{
+  "name": "jeju-police-ai-server",
+  "version": "1.0.0",
+  "description": "제주자치경찰 AI 분석 서버",
+  "main": "api/generate.js",
+  "type": "module"
+}
